@@ -3,7 +3,7 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
 module.exports = {
   mode: 'development',
   entry: {
-    main: './src/gettingStarted.js'
+    main: './src/moving.js'
   },
   devServer: {
     port: 3000
