@@ -1,2 +1,2 @@
 # learning-three
-Basic three.js scripts
+> Basic three.js scripts
